@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Tarik",
+    "INSTALL_MSG" : "Thank you for installing the bug reporting cog by Tarik!",
+    "NAME" : "bugreporting",
+    "SHORT" : "Allows users to report bugs!",
+    "DESCRIPTION" : "This cog will allow users to report bugs and ouput them into a specified channel.",
+    "TAGS" : ["report", "bug"],
+    "REQUIREMENTS" : [],
+    "HIDDEN" : false
+}
