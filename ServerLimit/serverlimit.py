@@ -4,7 +4,7 @@ class Serverjoinlimit:
     def __init__(self, bot):
         self.bot = bot
         
-    # This is a cog I made for Tarik Bot which basically left any server that had less than 25 members when it joined.
+    # This is a cog I made for Tarik Bot which basically makes the bot leave any server that has less than 25 members when it joins.
 	
 	async def on_server_join(self, server):
         if len(server.members) <= 25:
