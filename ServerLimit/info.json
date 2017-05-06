@@ -4,7 +4,7 @@
     "NAME" : "serverlimit",
     "SHORT" : "Limits the servers.",
     "DESCRIPTION" : "This cog basically makes the bot leave a server which has less than 25 members when it joins.",
-    "TAGS" : ["avatar", "url"],
+    "TAGS" : ["on_join", "limit"],
     "REQUIREMENTS" : [],
     "HIDDEN" : false
 }
