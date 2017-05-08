@@ -1,1 +1,1 @@
-These are cogs I make for Red-Discord Bot.
+The are some cogs that I made for the well known Tarik bot for Discord.
