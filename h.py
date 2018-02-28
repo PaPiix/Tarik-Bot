@@ -9,8 +9,8 @@ class Help:
 		
 	@commands.command()
 	async def h(self):
-		"""Shows the commands of SuperBot"""
-		server = "https://discord.gg/A3PEwgw"
+		"""Shows the commands of Tarik Bot"""
+		server = "http://discord.gg/tarik"
 
 		boi = (
 			"This is the list of commands which most of the users use on regular\n"
