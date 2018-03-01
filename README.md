@@ -1,6 +1,6 @@
 # Developers:
 
-Tarik Tekelioglu (TTxFTW) - Founder of Tarik bot
+## Tarik Tekelioglu (TTxFTW) - Founder of Tarik bot ##
 
 Twentysix - Founder of Red which is the open-source bot we used to kick off the project.
 
