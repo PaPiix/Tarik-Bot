@@ -5,7 +5,7 @@ Tarik
 --------------
 Twentysix 
 --------------
-Fwiedwice (QuingyuChai) -Co-founder
+Fwiedwice
 --------------
 Imbursting 
 --------------
