@@ -1,6 +1,6 @@
 # Developers of Tarik Discord Bot:
 
-=================
+
 Tarik 
 --------------
 Twentysix 
