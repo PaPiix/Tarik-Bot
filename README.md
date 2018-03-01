@@ -3,17 +3,14 @@
 ## Tarik Tekelioglu (TTxFTW) - Founder of Tarik bot ##
 
 #### Devs: ####
-
-Tarik - Founder
+=================
+Tarik 
 --------------
-Twentysix - Founder of Red which is the open-source bot we used to kick off the project.
---------------
-Nino - Co-founder
+Twentysix 
 --------------
 Fwiedwice (QuingyuChai) -Co-founder
-Imbursting 
 --------------
-Twentysix
+Imbursting 
 --------------
 Kowlin
 --------------
