@@ -1,8 +1,5 @@
-# Developers:
+# Developers of Tarik Discord Bot:
 
-## Tarik Tekelioglu (TTxFTW) - Founder of Tarik bot ##
-
-#### Devs: ####
 =================
 Tarik 
 --------------
